@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehmet Emin Yayla,
-- 👀 I’m monstly interested in Data Science. It's very deep learning cave, and I diving in!
+- 👀 I’m mostly interested in Data Science. It's very deep learning cave, and I diving in!
 - 📫 How to reach me?
 - [Linkedin](https://www.linkedin.com/in/m-eminyayla)
 
